@@ -10,13 +10,3 @@ Uses the [Diabetes 130-US Hospitals Dataset] (https://archive.ics.uci.edu/ml/dat
 - 50+ features including demographics, lab results, medications
 - 30-day readmission status (target variable)
 
-## Project Structure
-├── Dataset/
-│   ├── diabetic_data.csv          
-├── Model/
-│   ├── Hospital_Readmission_Risk_Prediction.ipynb          
-├── src/
-│   ├── preprocessor.joblib        
-│   ├── readmission_model.joblib                                                    
-├── README.md             
-└── requirements.txt
